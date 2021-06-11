@@ -4,7 +4,7 @@
 	Version="1.0.0.1" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="a663bb05-93c9-48be-8b8b-258559aa7845"
-		Version="1.0.0.0"
+		Version="1.0.0.1"
 		Publisher="CN=SUN Studio Develops"
 		Uri="https://github.com/sunstudiodev/QuickReference/raw/main/WapProjQuick_1.0.0.0_Test/WapProjQuick_1.0.0.0_AnyCPU.msixbundle" />
 	<UpdateSettings>
