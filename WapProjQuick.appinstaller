@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://github.com/sunstudiodev/QuickReference/raw/main/WapProjQuick.appinstaller"
+	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="a663bb05-93c9-48be-8b8b-258559aa7845"
+		Version="1.0.0.0"
+		Publisher="CN=SUN Studio Develops"
+		Uri="https://github.com/sunstudiodev/QuickReference/raw/main/WapProjQuick_1.0.0.0_Test/WapProjQuick_1.0.0.0_AnyCPU.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
